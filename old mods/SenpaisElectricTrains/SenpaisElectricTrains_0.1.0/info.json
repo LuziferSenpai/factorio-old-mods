@@ -1,0 +1,10 @@
+{
+  "name": "SenpaisElectricTrains",
+  "version": "0.1.0",
+  "title": "Senpais Electric Trains",
+  "author": "LuziferSenpai",
+  "Licence": "MIT",
+  "description": "This MOD adds Intercity-Express Trains that are running on Power! (No Grid Size!)",
+  "dependencies": ["base >= 0.14.0"],
+  "factorio_version": "0.14"
+}
