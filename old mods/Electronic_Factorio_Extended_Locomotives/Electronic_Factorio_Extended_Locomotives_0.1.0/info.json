@@ -1,0 +1,15 @@
+{
+    "name": "Electronic_Factorio_Extended_Locomotives",
+    "version": "0.1.0",
+    "title": "Electronic Factorio_Extended Locomotives",
+    "author": "LuziferSenpai",
+    "Licence": "Custom",
+    "description": "This Modification adds Factorio Extended Support for the Modification Electronic Locomotives",
+    "dependencies":
+    [
+    	"base",
+    	"Electronic_Locomotives >= 0.2.1",
+        "FactorioExtended-Plus-Transport >= 0.2.7"
+    ],
+    "factorio_version": "0.17"
+}
