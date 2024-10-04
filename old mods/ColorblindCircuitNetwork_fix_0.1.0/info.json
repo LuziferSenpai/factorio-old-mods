@@ -1,0 +1,11 @@
+{
+    "name": "ColorblindCircuitNetwork_fix",
+    "version": "0.1.0",
+    "title": "Colorblind Circuit Network",
+    "author": "LuziferSenpai, SquealPig",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.17",
+    "dependencies": ["base >= 0.17"],
+    "description": "This mod replaces the green wires with yellow, and red with blue. Ideal for colorblind people to distinguish between them."
+}
