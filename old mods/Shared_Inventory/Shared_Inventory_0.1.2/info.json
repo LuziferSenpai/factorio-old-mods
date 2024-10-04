@@ -1,0 +1,10 @@
+{
+	"name": "Shared_Inventory",
+	"version": "0.1.2",
+	"title": "Shared Inventory",
+	"author": "LuziferSenpai",
+	"contact": "mods@luzifersenpai.de",
+	"description": "Adds a shared inventory for all players. Blame Haphollas!",
+	"dependencies": ["base"],
+	"factorio_version": "0.18"
+}
