@@ -1,0 +1,10 @@
+{
+  "name": "Killer_Train_Namer",
+  "version": "0.1.0",
+  "title": "Killer Train Namer - KTN",
+  "author": "LuziferSenpai",
+  "Licence": "Custom",
+  "description": "Names Trains that killed players, based on there killed players!",
+  "dependencies": ["base"],
+  "factorio_version": "0.18"
+}
