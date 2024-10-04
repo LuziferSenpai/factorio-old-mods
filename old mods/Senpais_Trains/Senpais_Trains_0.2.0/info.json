@@ -1,0 +1,10 @@
+{
+  "name": "Senpais_Trains",
+  "version": "0.2.0",
+  "title": "Senpais Trains",
+  "author": "LuziferSenpai",
+  "Licence": "Custom",
+  "description": "This MOD adds the Option for Electric Trains and Battle Trains/Wagons. Fully Configurable.",
+  "dependencies": ["base >= 0.16"],
+  "factorio_version": "0.16"
+}

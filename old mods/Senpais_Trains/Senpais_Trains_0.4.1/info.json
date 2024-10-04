@@ -1,0 +1,10 @@
+{
+  "name": "Senpais_Trains",
+  "version": "0.4.1",
+  "title": "Senpais Trains",
+  "author": "LuziferSenpai",
+  "Licence": "Custom",
+  "description": "This MOD adds the Option for Electric Trains, Battle Trains/Wagons and a new Railway Gun!. Fully Configurable. And now with Automatic Coupling!",
+  "dependencies": ["base >= 0.16"],
+  "factorio_version": "0.16"
+}
