@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.2
+Date: 24.01.2020
+  Changes:
+    - Update to .18
+---------------------------------------------------------------------------------------------------
+Version 0.2.1
+Date: 03.03.2019
+	Updates:
+	 - Updated to Version 17
+	 - Updated Sciene Packs
+	Changes:
+	 - New Research Time
+	 - New Pack assignment
+---------------------------------------------------------------------------------------------------
+Older Versions:
+	Version: 0.2.0
+	 - Changed Modifier of Tech
+	Version: 0.1.1
+	 - Updated to Version 16
+	Version: 0.1.0
+	 - Release

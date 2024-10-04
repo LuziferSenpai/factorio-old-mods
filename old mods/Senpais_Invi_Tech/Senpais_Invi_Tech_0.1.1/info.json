@@ -1,0 +1,10 @@
+{
+  "name": "Senpais_Invi_Tech",
+  "version": "0.1.1",
+  "title": "Senpais Inventory Tech",
+  "author": "LuziferSenpai",
+  "Licence": "Custom",
+  "description": "This MOD adds a Infinity Tech, to upgrade your Inventorysize!",
+  "dependencies": ["base >= 0.16"],
+  "factorio_version": "0.16"
+}
