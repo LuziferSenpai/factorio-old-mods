@@ -1,0 +1,10 @@
+{
+  "name": "Battle-Train-MOD",
+  "version": "0.1.1",
+  "title": "Battle Trains!",
+  "author": "LuziferSenpai",
+  "Licence": "MIT",
+  "description": "This MOD adds Trains and Wagons with Grid Size!",
+  "dependencies": ["base >= 0.14.0"],
+  "factorio_version": "0.14"
+}
