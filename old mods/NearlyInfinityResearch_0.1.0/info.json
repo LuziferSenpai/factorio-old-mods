@@ -1,0 +1,10 @@
+{
+  "name": "NearlyInfinityResearch",
+  "version": "0.1.0",
+  "title": "Nearly Infinity Research",
+  "author": "LuziferSenpai",
+  "Licence": "MIT",
+  "description": "This is the my Idea to the Infinity Research shown in the FFF#-161!",
+  "dependencies": ["base >= 0.14.0"],
+  "factorio_version": "0.14"
+}
