@@ -1,0 +1,10 @@
+{
+ "name": "Robot_Cleanup_fix",
+ "version": "0.1.3",
+ "title": "Robot Cleanup",
+ "author": "Klonan",
+ "contact": "",
+ "homepage": "",
+ "description": "Automatically tells robots/roboports to deconstruct entities in their construction range",
+ "factorio_version": "0.15"
+ }
