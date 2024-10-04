@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version 0.1.0
+Date: 18.06.2019
+  Features:
+    - Strong Locomotives made for combat with Biters running on Electricity
+    - A Grid based on there Tier
+    - A good Defense based on there crafting Tier
+    - A strong second Tier Personal Laser Defense

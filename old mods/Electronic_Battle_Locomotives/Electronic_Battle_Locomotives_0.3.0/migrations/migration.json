@@ -1,0 +1,29 @@
+{
+	"entity":
+	[
+		[ "Elec-Battle-Loco-1", "Electronic-Battle-Locomotive-1" ],
+		[ "Elec-Battle-Loco-2", "Electronic-Battle-Locomotive-2" ],
+		[ "Elec-Battle-Loco-3", "Electronic-Battle-Locomotive-3" ]
+
+	],
+	"item":
+	[
+		[ "Elec-Battle-Loco-1", "Electronic-Battle-Locomotive-1" ],
+		[ "Elec-Battle-Loco-2", "Electronic-Battle-Locomotive-2" ],
+		[ "Elec-Battle-Loco-3", "Electronic-Battle-Locomotive-3" ],
+		[ "laser-2", "vehicle-laser" ]
+
+	],
+	"recipe":
+	[
+		[ "Elec-Battle-Loco-1", "Electronic-Battle-Locomotive-1" ],
+		[ "Elec-Battle-Loco-2", "Electronic-Battle-Locomotive-2" ],
+		[ "Elec-Battle-Loco-3", "Electronic-Battle-Locomotive-3" ],
+		[ "laser-2", "vehicle-laser" ]
+
+	],
+	"equipment":
+	[
+		[ "laser-2", "vehicle-laser" ]
+	]
+}

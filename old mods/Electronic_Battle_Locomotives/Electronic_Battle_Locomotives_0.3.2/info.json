@@ -1,0 +1,15 @@
+{
+    "name": "Electronic_Battle_Locomotives",
+    "version": "0.3.2",
+    "title": "Electronic Battle Locomotives",
+    "author": "LuziferSenpai",
+    "contact": "mods@luzifersenpai.de",
+    "description": "This Modification adds 3 new Battle Locomotives, that uses Electricity as Fuel!",
+    "dependencies":
+    [
+    	"base",
+        "Electronic_Locomotives >= 0.3.0",
+        "Battle_Locomotives >= 0.2.2"
+    ],
+    "factorio_version": "0.18"
+}
