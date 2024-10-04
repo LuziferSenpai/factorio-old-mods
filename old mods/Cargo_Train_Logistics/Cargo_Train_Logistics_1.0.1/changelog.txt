@@ -1,0 +1,39 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 21.09.2020
+  Changes:
+    - Now its actually 1.0 update, ups
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 20.09.2020
+  Bugfixes:
+    - Fixed a bug, where the wagons didnt worked
+  Changes:
+    - Update to 1.0
+    - Is for now the final version of this mod
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 08.08.2020
+  Bugfixes:
+    - Fixed a bug with inventory
+    - Fixed a bug with on_config_changed
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 01.08.2020
+  Bugfixes:
+    - Fixed a bug with choose-elem in the blacklist
+  Changes:
+    - Changed a bit of code
+  Features:
+    - Added a way to delete none existing items
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 31.07.2020
+  Bugfixes:
+    - Fixed a bug when a configured train was moving
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 29.07.2020
+  Features:
+    - A way to request items from other wagons in the train
+    - A way to send items to other wagons in the train
