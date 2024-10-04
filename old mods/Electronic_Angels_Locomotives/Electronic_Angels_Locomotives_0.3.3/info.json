@@ -1,0 +1,17 @@
+{
+    "name": "Electronic_Angels_Locomotives",
+    "version": "0.3.3",
+    "title": "Electronic Angels Locomotives",
+    "author": "LuziferSenpai",
+    "contact": "mods@luzifersenpai.de",
+    "description": "This Modification adds Angels Support for the Modification Electronic Locomotives",
+    "dependencies":
+    [
+        "base",
+        "Electronic_Locomotives >= 0.3.13",
+        "? angelsaddons-crawlertrain >= 0.1.5",
+        "? angelsaddons-petrotrain >= 0.5.9",
+        "? angelsaddons-smeltingtrain >= 0.3.8"
+    ],
+    "factorio_version": "0.18"
+}

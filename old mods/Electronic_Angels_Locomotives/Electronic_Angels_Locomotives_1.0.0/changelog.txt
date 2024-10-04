@@ -1,0 +1,54 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 27.08.2020
+  Changes:
+    - Update to 1.0
+    - Is for now the final version of this mod
+    - Only work with Angel's Addons - Mass Transit
+---------------------------------------------------------------------------------------------------
+Version: 0.3.3
+Date: 10.07.2020
+  Changes:
+    - Changed Recipes, when Angels Industries is enabled
+---------------------------------------------------------------------------------------------------
+Version: 0.3.2
+Date: 04.07.2020
+  Bugfixes:
+    - Fixed another migration error
+---------------------------------------------------------------------------------------------------
+Version: 0.3.1
+Date: 04.07.2020
+  Bugfixes:
+    - Fixed a migration error
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 04.07.2020
+  Changes:
+    - Added a little electronic symbol in the bottom left corner. Thanks lovely_santa
+  Bugfixes:
+    - Fixed migration
+---------------------------------------------------------------------------------------------------
+Version: 0.2.2
+Date: 04.07.2020
+  Bugfixes:
+    - Fixed a bug with having only 1 tier
+---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 04.07.2020
+  Bugfixes:
+    - Fixed two little missspells
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 03.07.2020
+  Changes:
+    - Fully updated angels support
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 24.01.2020
+  Changes:
+    - Update to .18
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 10.10.2019
+  Features:
+    - Adds Angels Locomotive Electronic Versions
