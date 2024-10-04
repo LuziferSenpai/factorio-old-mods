@@ -1,0 +1,1 @@
+data.raw["character-corpse"]["character-corpse"].time_to_live = 999 * 999 * 999

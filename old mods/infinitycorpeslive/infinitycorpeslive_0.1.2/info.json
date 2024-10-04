@@ -1,0 +1,10 @@
+{
+  "name": "infinitycorpeslive",
+  "version": "0.1.2",
+  "title": "Infinity Corpes Live",
+  "author": "LuziferSenpai",
+  "Licence": "Custom",
+  "description": "This MOD changes the live of character corpes to Infinity!",
+  "dependencies": ["base >= 0.17"],
+  "factorio_version": "0.17"
+}
