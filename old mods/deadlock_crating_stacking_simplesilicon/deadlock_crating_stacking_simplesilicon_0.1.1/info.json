@@ -1,0 +1,16 @@
+{
+	"name": "deadlock_crating_stacking_simplesilicon",
+	"version": "0.1.1",
+	"title": "Deadlock Crating/Stacking Simple Silicon",
+	"author": "LuziferSenpai",
+	"Licence": "Custom",
+	"description": "Adds Support for Deadlock's Crating and Stacking for Simple Silicon.",
+	"dependencies":
+	[
+		"base",
+		"SimpleSilicon",
+		"? deadlock-beltboxes-loaders",
+		"? DeadlockCrating"
+	],
+	"factorio_version": "0.17"
+}
