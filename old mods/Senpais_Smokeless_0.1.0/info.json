@@ -1,0 +1,10 @@
+{
+  "name": "Senpais_Smokeless",
+  "version": "0.1.0",
+  "title": "Senpais Smokeless",
+  "author": "LuziferSenpai",
+  "Licence": "Custom",
+  "description": "Removes Smoke Generation from all entitys!",
+  "dependencies": ["base >= 0.16"],
+  "factorio_version": "0.16"
+}
