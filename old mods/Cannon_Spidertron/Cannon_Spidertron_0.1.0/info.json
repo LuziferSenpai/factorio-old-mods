@@ -1,0 +1,10 @@
+{
+  "name": "Cannon_Spidertron",
+  "version": "0.1.0",
+  "title": "Cannon Spidertron",
+  "author": "LuziferSenpai",
+  "Licence": "Custom",
+  "description": "Adds a spidertron, that shoots cannon shells.",
+  "dependencies": ["base"],
+  "factorio_version": "1.0"
+}
