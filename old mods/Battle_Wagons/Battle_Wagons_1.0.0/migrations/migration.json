@@ -1,0 +1,11 @@
+{
+    "item": [
+        ["laser-2", "vehicle-laser"]
+    ],
+    "recipe": [
+        ["laser-2", "vehicle-laser"]
+    ],
+    "equipment":[
+        ["laser-2", "vehicle-laser"]
+    ]
+}
