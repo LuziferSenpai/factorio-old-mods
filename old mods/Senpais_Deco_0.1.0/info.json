@@ -1,0 +1,10 @@
+{
+  "name": "Senpais_Deco",
+  "version": "0.1.0",
+  "title": "Placeable Trees and more!",
+  "author": "LuziferSenpai",
+  "Licence": "Custom",
+  "description": "Adds the Option to place Trees and other Deco Stuff.",
+  "dependencies": ["base >= 0.15.0"],
+  "factorio_version": "0.15"
+}
