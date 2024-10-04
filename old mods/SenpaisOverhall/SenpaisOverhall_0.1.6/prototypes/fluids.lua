@@ -1,0 +1,72 @@
+local MODNAME = "__SenpaisOverhall__"
+
+data:extend
+(
+{
+ {
+  type = "fluid",
+  name = "l-plastic",
+  icon = MODNAME.."/graphics/icons/plastic.png",
+  order = "sa",
+  default_temperature = 25,
+  max_temperature = 100,
+  heat_capacity = "1KJ",
+  base_color = {r = 255, g = 255, b = 255},
+  flow_color = {r = 255, g = 255, b = 255},
+  pressure_to_speed_ratio = 0.4,
+  flow_to_energy_ratio = 0.59,
+ },
+ {
+  type = "fluid",
+  name = "l-angel",
+  icon = MODNAME.."/graphics/icons/angel-fluid.png",
+  order = "sb",
+  default_temperature = 25,
+  max_temperature = 100,
+  heat_capacity = "1KJ",
+  base_color = {r = 217, g = 220, b = 219},
+  flow_color = {r = 217, g = 220, b = 219},
+  pressure_to_speed_ratio = 0.4,
+  flow_to_energy_ratio = 0.59,
+ },
+ {
+  type = "fluid",
+  name = "l-bavarium",
+  icon = MODNAME.."/graphics/icons/bavarium-fluid.png",
+  order = "sc",
+  default_temperature = 25,
+  max_temperature = 100,
+  heat_capacity = "1KJ",
+  base_color = {r = 9, g = 164, b = 149},
+  flow_color = {r = 9, g = 164, b = 149},
+  pressure_to_speed_ratio = 0.4,
+  flow_to_energy_ratio = 0.59,
+ },
+ {
+  type = "fluid",
+  name = "l-devil",
+  icon = MODNAME.."/graphics/icons/devil-fluid.png",
+  order = "sd",
+  default_temperature = 25,
+  max_temperature = 100,
+  heat_capacity = "1KJ",
+  base_color = {r = 56, g = 51, b = 55},
+  flow_color = {r = 56, g = 51, b = 55},
+  pressure_to_speed_ratio = 0.4,
+  flow_to_energy_ratio = 0.59,
+ },
+ {
+  type = "fluid",
+  name = "alien-fluid",
+  icon = MODNAME.."/graphics/icons/alien-fluid.png",
+  order = "se",
+  default_temperature = 25,
+  max_temperature = 100,
+  heat_capacity = "1KJ",
+  base_color = {r = 249, g = 44, b = 199},
+  flow_color = {r = 249, g = 44, b = 199},
+  pressure_to_speed_ratio = 0.4,
+  flow_to_energy_ratio = 0.59,
+ }
+}
+)

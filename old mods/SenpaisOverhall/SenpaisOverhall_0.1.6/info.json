@@ -1,0 +1,10 @@
+{
+  "name": "SenpaisOverhall",
+  "version": "0.1.6",
+  "title": "Senpais Overhall",
+  "author": "LuziferSenpai",
+  "Licence": "MIT",
+  "description": "This is my Overhall MOD/Change to Factorio",
+  "dependencies": ["base >= 0.14.0"],
+  "factorio_version": "0.14"
+}
